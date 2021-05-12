@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&layout=compact&hide=html" alt="JeysonFlores">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=JeysonFlores&show_icons=true" alt="JeysonFlores">
+</p>
+
 -->
+
