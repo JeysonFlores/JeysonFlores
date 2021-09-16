@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&layout=compact&hide=html" alt="JeysonFlores">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&layout=compact&hide=java" alt="JeysonFlores">
     <br> <br>
     <img src="https://github-readme-stats.vercel.app/api?username=JeysonFlores&show_icons=true" alt="JeysonFlores">
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&exclude_repo=TortiYa" alt="JeysonFlores">
+    <br> <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=JeysonFlores&show_icons=true" alt="JeysonFlores">
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&exclude_repo=TortiYa)
 -->
+
 
