@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A.svg?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=java&logoColor=white)
 ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 #### Learning
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-000000.svg?style=flat-square&logo=Crystal&logoColor=white)
