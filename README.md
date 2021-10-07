@@ -32,6 +32,7 @@
 #### Frameworks
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF.svg?style=flat-square&logo=Flask&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=flat-square&logo=ApacheSpark&logoColor=white)
+![Kemal](https://img.shields.io/badge/Kemal-F52B31.svg?style=flat-square&logo=Keras&logoColor=white)
 #### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-82BCE2.svg?style=flat-square&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005E86.svg?style=flat-square&logo=MySQL&logoColor=white)
