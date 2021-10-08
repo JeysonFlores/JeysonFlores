@@ -28,7 +28,7 @@
 ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 #### Learning
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F34B7D.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-000000.svg?style=flat-square&logo=Crystal&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-F48A32.svg?style=flat-square&logo=OCaml&logoColor=white)
 #### Frameworks
