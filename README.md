@@ -31,6 +31,9 @@
 ![Crystal](https://img.shields.io/badge/Crystal-000000.svg?style=flat-square&logo=Crystal&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-F48A32.svg?style=flat-square&logo=OCaml&logoColor=white)
 #### Frameworks
+![GTK](https://img.shields.io/badge/GTK-4A86CF.svg?style=flat-square&logo=HackTheBox&logoColor=white)
+![C++](https://img.shields.io/badge/Boost-6799C2.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+#### Web Frameworks
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF.svg?style=flat-square&logo=Flask&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=flat-square&logo=ApacheSpark&logoColor=white)
 ![Kemal](https://img.shields.io/badge/Kemal-F52B31.svg?style=flat-square&logo=Keras&logoColor=white)
