@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Jeyson Antonio Flores Deras and I'm working on these projects:
 - ![Paleta](https://github.com/JeysonFlores/Paleta) - Color Picker tool designed for Elementary OS. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
-- ![Opal](https://github.com/JeysonFlores/Opal) - A tiny library with build system functionalities written in Janet. ![Janeta](https://img.shields.io/badge/Janet-DB5855?style=flat-square&logo=Clojure&logoColor=white)
-### And these are the projects I've worked on:
+- ![Switcher](https://github.com/JeysonFlores/switcher) - Automatize background wallpapers according to Pantheon's modes. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
+### And these are the projects I maintain:
 - ![Hasher](https://github.com/JeysonFlores/hasher) - Native GTK application for hashing files. ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 <!--
 <p align="center">
