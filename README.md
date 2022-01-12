@@ -1,9 +1,10 @@
 ### Hi there 👋
 ### I'm Jeyson Antonio Flores Deras and I'm working on these projects:
-- ![Paleta](https://github.com/JeysonFlores/Paleta) - Color Picker tool designed for Elementary OS. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
+- ![PaletaLogo][PaletaLogo] [Paleta][PaletaRepo] - Color Picker tool designed for Elementary OS. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
 ### And these are the projects I maintain:
-- ![Hasher](https://github.com/JeysonFlores/hasher) - Native GTK application for hashing files. ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-- ![Switcher](https://github.com/JeysonFlores/switcher) - Automatize background wallpapers according to Pantheon's modes. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
+- ![HasherLogo][HasherLogo] [Hasher][HasherRepo] - Native GTK application for hashing files. ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+- ![SwitcherLogo][SwitcherLogo] [Switcher][SwitcherRepo] - Automatize background wallpapers according to Pantheon's modes. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
+
 <!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&layout=compact&hide=java" alt="JeysonFlores">
@@ -47,3 +48,10 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
+[PaletaRepo]: https://github.com/JeysonFlores/Paleta
+[PaletaLogo]: https://github.com/JeysonFlores/Paleta/blob/main/data/icons/16/com.github.jeysonflores.paleta.svg
+[HasherRepo]: https://github.com/JeysonFlores/hasher
+[HasherLogo]: https://github.com/JeysonFlores/hasher/blob/main/data/assets/icons/16x16/com.github.jeysonflores.hasher.svg
+[SwitcherRepo]: https://github.com/JeysonFlores/switcher
+[SwitcherLogo]: https://github.com/JeysonFlores/switcher/blob/main/data/icons/16/com.github.jeysonflores.switcher.svg
