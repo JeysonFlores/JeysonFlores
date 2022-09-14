@@ -1,7 +1,5 @@
 ### Hi there 👋
-### I'm Jeyson Antonio Flores Deras and I'm working on these projects:
-- ![PaletaLogo][PaletaLogo] [Paleta][PaletaRepo] - Color Picker tool designed for Elementary OS. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
-### And these are the projects I maintain:
+### I'm Jeyson Antonio Flores Deras and these are the projects I maintain:
 - ![HasherLogo][HasherLogo] [Hasher][HasherRepo] - Native GTK application for hashing files. ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 - ![SwitcherLogo][SwitcherLogo] [Switcher][SwitcherRepo] - Automatize background wallpapers according to Pantheon's modes. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
 
@@ -30,15 +28,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 #### Learning
 ![C++](https://img.shields.io/badge/C++-F34B7D.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Crystal](https://img.shields.io/badge/Crystal-000000.svg?style=flat-square&logo=Crystal&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-F48A32.svg?style=flat-square&logo=OCaml&logoColor=white)
-#### Frameworks
-![GTK](https://img.shields.io/badge/GTK-4A86CF.svg?style=flat-square&logo=HackTheBox&logoColor=white)
-![C++](https://img.shields.io/badge/Boost-6799C2.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 #### Web Frameworks
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF.svg?style=flat-square&logo=Flask&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=flat-square&logo=ApacheSpark&logoColor=white)
-![Kemal](https://img.shields.io/badge/Kemal-F52B31.svg?style=flat-square&logo=Keras&logoColor=white)
 #### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-82BCE2.svg?style=flat-square&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005E86.svg?style=flat-square&logo=MySQL&logoColor=white)
