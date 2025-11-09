@@ -1,48 +1,23 @@
-### Hi there 👋
-### I'm Jeyson Antonio Flores Deras and these are the projects I maintain:
-- ![HasherLogo][HasherLogo] [Hasher][HasherRepo] - Native GTK application for hashing files. ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-- ![SwitcherLogo][SwitcherLogo] [Switcher][SwitcherRepo] - Automatize background wallpapers according to Pantheon's modes. ![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
+# Hi 👋, I'm Jeyson Flores
 
-<!--
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&layout=compact&hide=java" alt="JeysonFlores">
-    <br> <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=JeysonFlores&show_icons=true" alt="JeysonFlores">
+### Software Development Engineer II in Applied Science (AI) at @zillow
+
+- 🔭 I'm currently working on **Python, Vala, Android**
+
+- 🌱 I'm currently learning **Databricks**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **jeysonoknoztop@gmail.com**
+
+- 📄 Know about my experiences **[https://jeysonflores.github.io/](https://jeysonflores.github.io/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/JeysonFlores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JeysonFlores" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeyson-antonio-flores-deras-1511b4250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeyson-antonio-flores-deras-1511b4250" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&exclude_repo=TortiYa" alt="JeysonFlores">
-    <br> <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=JeysonFlores&show_icons=true" alt="JeysonFlores">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&exclude_repo=TortiYa)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonFlores&exclude_repo=TortiYa&langs_count=11&hide=html&layout=compact)
-
--->
-#### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A.svg?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=java&logoColor=white)
-![Vala](https://img.shields.io/badge/Vala-FBE5CD?style=flat-square&logo=V&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-#### Learning
-![C++](https://img.shields.io/badge/C++-F34B7D.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-#### Web Frameworks
-![Flask](https://img.shields.io/badge/Flask-FFFFFF.svg?style=flat-square&logo=Flask&logoColor=black)
-#### Databases
-![SQLite](https://img.shields.io/badge/SQLite-82BCE2.svg?style=flat-square&logo=SQLite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005E86.svg?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C.svg?style=flat-square&logo=PostgreSQL&logoColor=white)
-#### Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-
-[PaletaRepo]: https://github.com/JeysonFlores/Paleta
-[PaletaLogo]: https://github.com/JeysonFlores/Paleta/blob/main/data/icons/16/com.github.jeysonflores.paleta.svg
-[HasherRepo]: https://github.com/JeysonFlores/hasher
-[HasherLogo]: https://github.com/JeysonFlores/hasher/blob/main/data/assets/icons/16x16/com.github.jeysonflores.hasher.svg
-[SwitcherRepo]: https://github.com/JeysonFlores/switcher
-[SwitcherLogo]: https://github.com/JeysonFlores/switcher/blob/main/data/icons/16/com.github.jeysonflores.switcher.svg
