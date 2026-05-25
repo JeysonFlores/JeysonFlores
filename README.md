@@ -2,11 +2,11 @@
 
 ### Software Development Engineer II in Applied Science (AI) at [Zillow](https://www.zillow.com/)
 
-- 🔭 I'm currently working on **Python, Vala, Android**
+- 🔭 I'm currently working on **Python, Rust & Qiskit**
 
-- 🌱 I'm currently learning **Databricks**
-
-- 💬 Ask me about **Python**
+- 🌱 I'm currently learning **Quantum Computing Ψ** - Currently interested in
+  - Quantum Key Distribution (QKD) protocols.
+  - Post-Quantum Cryptography.
 
 - 📫 How to reach me **jeysonoknoztop@gmail.com**
 
