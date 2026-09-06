@@ -7,6 +7,8 @@
 - 🌱 I'm currently learning **Quantum Computing Ψ** - Currently interested in
   - Quantum Key Distribution (QKD) protocols.
   - Post-Quantum Cryptography.
+  - Quantum Simulations.
+  - GPU programming.
 
 - 📫 How to reach me **jeysonoknoztop@gmail.com**
 
